@@ -1,0 +1,16 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Brussels",
+			"country": {
+				"code": "BE",
+				"name": "Belgium"
+			},
+			"subdivision": {
+				"code": "BRU",
+				"name": "Brussels Capital"
+			}
+		},
+		"timestamp": 1651149944379
+	}
+}
