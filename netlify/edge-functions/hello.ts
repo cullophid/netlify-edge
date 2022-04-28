@@ -1,1 +1,7 @@
-export default () => new Response("Hello world");
+export default () => {
+    let message= "Hello world"
+    eval(`message= 'Hello Eval'`)
+    return new Response(message)
+}
+
+
